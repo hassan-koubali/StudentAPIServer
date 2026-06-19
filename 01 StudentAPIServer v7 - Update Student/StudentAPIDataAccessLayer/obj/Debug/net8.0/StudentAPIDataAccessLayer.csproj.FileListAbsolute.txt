@@ -1,0 +1,12 @@
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\bin\Debug\net8.0\StudentAPIDataAccessLayer.deps.json
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\bin\Debug\net8.0\StudentAPIDataAccessLayer.dll
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\bin\Debug\net8.0\StudentAPIDataAccessLayer.pdb
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\StudentAPIDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\StudentAPIDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\StudentAPIDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\StudentAPIDataAccessLayer.AssemblyInfo.cs
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\StudentAPIDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\StudentAPIDataAccessLayer.dll
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\refint\StudentAPIDataAccessLayer.dll
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\StudentAPIDataAccessLayer.pdb
+C:\Users\hp\Downloads\01 StudentAPIServer v7 - Update Student\01 StudentAPIServer v7 - Update Student\StudentAPIDataAccessLayer\obj\Debug\net8.0\ref\StudentAPIDataAccessLayer.dll

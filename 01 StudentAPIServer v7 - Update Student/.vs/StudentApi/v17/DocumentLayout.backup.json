@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\01 StudentAPIServer v7 - Update Student\\01 StudentAPIServer v7 - Update Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|c:\\users\\hp\\downloads\\01 studentapiserver v7 - update student\\01 studentapiserver v7 - update student\\myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E02EB0E-C3DC-4169-86C3-19E867FB65E3}|StudentAPIDataAccessLayer\\StudentAPIDataAccessLayer.csproj|c:\\users\\hp\\downloads\\01 studentapiserver v7 - update student\\01 studentapiserver v7 - update student\\studentapidataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E02EB0E-C3DC-4169-86C3-19E867FB65E3}|StudentAPIDataAccessLayer\\StudentAPIDataAccessLayer.csproj|solutionrelative:studentapidataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EBFD21-7275-44AE-971E-37CF579303B1}|StudentAPIBusinessLayer\\StudentAPIBusinessLayer.csproj|c:\\users\\hp\\downloads\\01 studentapiserver v7 - update student\\01 studentapiserver v7 - update student\\studentapibusinesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EBFD21-7275-44AE-971E-37CF579303B1}|StudentAPIBusinessLayer\\StudentAPIBusinessLayer.csproj|solutionrelative:studentapibusinesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\01 StudentAPIServer v7 - Update Student\\01 StudentAPIServer v7 - Update Student\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\01 StudentAPIServer v7 - Update Student\\01 StudentAPIServer v7 - Update Student\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwHoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:07:59.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\01 StudentAPIServer v7 - Update Student\\01 StudentAPIServer v7 - Update Student\\StudentAPIBusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "StudentAPIBusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\01 StudentAPIServer v7 - Update Student\\01 StudentAPIServer v7 - Update Student\\StudentAPIBusinessLayer\\Class1.cs",
+              "RelativeToolTip": "StudentAPIBusinessLayer\\Class1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAEwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:59:44.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\01 StudentAPIServer v7 - Update Student\\01 StudentAPIServer v7 - Update Student\\StudentAPIDataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "StudentAPIDataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\01 StudentAPIServer v7 - Update Student\\01 StudentAPIServer v7 - Update Student\\StudentAPIDataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "StudentAPIDataAccessLayer\\Class1.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAD4v84AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:00:01.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
