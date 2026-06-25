@@ -1,120 +1,117 @@
-\# Student API Server
+# 🎓 Student API Server
 
+Student API Server is a RESTful ASP.NET Core Web API designed to manage student records efficiently. The project demonstrates real-world backend development concepts including CRUD operations, REST APIs, Entity Framework Core, and SQL Server integration.
 
+---
 
-A simple ASP.NET Core Web API project built using a 3-Tier Architecture (Presentation Layer, Business Layer, Data Access Layer).
+## ✨ Features
 
+- ➕ Create new student records
+- 📋 Retrieve all students
+- 🔍 Get a student by ID
+- ✏️ Update student information
+- ❌ Delete student records
+- ✅ RESTful API design
+- 💾 SQL Server database integration
+- 📦 Entity Framework Core
+- 📄 JSON request and response format
+- 🧪 API testing with Swagger
 
+---
 
-\## Features
+## 🛠️ Tech Stack
 
+- ASP.NET Core Web API
+- C#
+- Entity Framework Core
+- SQL Server
+- Swagger / OpenAPI
+- Visual Studio
 
+---
 
-\- Get all students
+## 📂 Project Structure
 
-\- Get student by ID
+```text
+StudentAPIServer
+│
+├── Controllers/
+├── Models/
+├── Data/
+├── DTOs/
+├── Migrations/
+├── Properties/
+├── Program.cs
+└── appsettings.json
+```
 
-\- Get passed students
+---
 
-\- Get students count
+## 🚀 Getting Started
 
-\- Get average grade
+### Prerequisites
 
-\- Add new student
+- .NET SDK
+- SQL Server
+- Visual Studio 2022
 
-\- Update existing student
+### Clone the repository
 
-\- Delete student
+```bash
+git clone https://github.com/hassan-koubali/StudentAPIServer.git
+```
 
+### Run the project
 
+```bash
+dotnet restore
+dotnet ef database update
+dotnet run
+```
 
-\## Technologies Used
+The API will be available through Swagger.
 
+---
 
+## 📌 API Endpoints
 
-\- C#
+| Method | Endpoint | Description |
+|---------|----------|-------------|
+| GET | `/api/students` | Get all students |
+| GET | `/api/students/{id}` | Get a student by ID |
+| POST | `/api/students` | Create a new student |
+| PUT | `/api/students/{id}` | Update a student |
+| DELETE | `/api/students/{id}` | Delete a student |
 
-\- ASP.NET Core Web API
+---
 
-\- SQL Server
+## 📸 Screenshots
 
-\- ADO.NET
+> Add Swagger or API screenshots here.
 
-\- Stored Procedures
+---
 
-\- RESTful API
-
-\- 3-Tier Architecture
-
-
-
-\## API Endpoints
-
-
-
-\### GET
-
-\- `/api/Students/All`
-
-\- `/api/Students/Passed`
-
-\- `/api/Students/Count`
-
-\- `/api/Students/AverageGrade`
-
-\- `/api/Students/{id}`
-
-
-
-\### POST
-
-\- `/api/Students`
-
-
-
-\### PUT
-
-\- `/api/Students/{id}`
-
-
-
-\### DELETE
-
-\- `/api/Students/{id}`
-
-
-
-\## Project Structure
-
-
-
-\- StudentApi (Presentation Layer)
-
-\- StudentAPIBusinessLayer (Business Logic Layer)
-
-\- StudentAPIDataAccessLayer (Data Access Layer)
-
-
-
-\## Learning Goals
-
-
+## 🎯 Learning Objectives
 
 This project was built to practice:
 
+- REST API development
+- ASP.NET Core fundamentals
+- Entity Framework Core
+- Database CRUD operations
+- Dependency Injection
+- Clean API architecture
 
+---
 
-\- ASP.NET Core Web API
+## 📄 License
 
-\- CRUD Operations
+Licensed under the MIT License.
 
-\- Layered Architecture
+---
 
-\- SQL Server Stored Procedures
+## 👨‍💻 Author
 
-\- DTO Pattern
+**Hassan Koubali**
 
-\- HTTP Status Codes
-
-\- Git \& GitHub
-
+GitHub: https://github.com/hassan-koubali
